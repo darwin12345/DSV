@@ -4,3 +4,8 @@ y termine perdiendose toda la robustes que esta herramienta ofrece.
 
 DSV.py ofrece al usuario opciones para descargar videos en la mas alta calidad, 
 y tambien la opcion de descargar mp3.
+
+REQUISITOS
+
+    *Sistema Operativo Linux; Ubuntu o Derivado de Debian
+    *Python3 o Anaconda
